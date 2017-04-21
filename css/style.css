@@ -5,3 +5,46 @@ span{
 .background{
   background-color: lightgrey;
 }
+
+h2{
+  display: block;
+  font-size: 27px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  padding-left: 70px;
+  color: #505863;
+}
+
+h4{
+  padding-left: 16px;
+  font-weight: bold;
+  color: #768c96
+}
+img{
+  border-style: none;
+  border-top-style: none;
+  border-left-style: none;
+  box-sizing: border-box;
+  height: 225px;
+  width: 100%
+
+}
+p{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+p1{
+  padding-left: 16px;
+  font-family: sans-serif;
+  color: #768c96
+}
+.basic-info p{
+  display: block;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+hr{
+  margin: 20px;
+}
