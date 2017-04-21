@@ -10,7 +10,7 @@ _This is my Portfolio. In this, there are basic information such as my backgroun
 
 ## Setup/Installation Requirements
 
-* _Simply click on index.html in any web browser to open it.
+* Simply click on index.html in any web browser to open it.
 
 ## Known Bugs
 
@@ -22,7 +22,7 @@ kimlan1510.github.io/portfolio
 ## Support and contact details
 
 _Let me know your opinion_
-_kimlan1510@gmail.com, Kimlan Nguyen
+_kimlan1510@gmail.com, Kimlan Nguyen_
 
 ## Technologies Used
 
