@@ -17,7 +17,7 @@ _This is my Portfolio. In this, there are basic information such as my backgroun
 _There are no bugs that I am aware of._
 
 ## Link to github
-_kimlan1510.github.io/portfolio
+kimlan1510.github.io/portfolio
 
 ## Support and contact details
 
